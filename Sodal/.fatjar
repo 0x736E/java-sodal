@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Jan 28 00:15:11 GMT 2009
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=C\:\\Users\\Sean\\Desktop\\JoeBot.jar
+manifest.mergeall=true
+manifest.mainclass=logicswarm.net.test.DefaultBot
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=
