@@ -10,3 +10,11 @@ Used Libraries:
 * PircBot: http://www.jibble.org/pircbot.php
 * jMegaHal [optional]: http://www.jibble.org/jmegahal/
 * jTwitter [optional]: http://www.winterwell.com/software/jtwitter.php
+
+==========
+
+Sodal is a modular java irc bot which you can use, like other bots, to monitor, log or administer IRC chatrooms.
+
+Sodal uses the PircBot? library for connecting to IRC servers, the JMegaHal library for artificial intelligence, and maintains a host of other modules for anything from automatically reconnecting to a server on disconnect to filtering messages (eg. translating from one language to another).
+
+Sodal is very flexible among its most useful features, you can load and unload modules (plugins) at will during runtime, filter chat responses etc.
